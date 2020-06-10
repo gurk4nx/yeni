@@ -1,3 +1,3 @@
 import time
-print('gürkan')
-time.sleep(2)
+print('Gürkan\n Kodlama\n   Öğreniyor')
+time.sleep(3)
